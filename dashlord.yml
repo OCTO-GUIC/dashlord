@@ -801,3 +801,6 @@ urls:
       dsfr: false
       ecoindex: false
       screenshot: false
+  - url: https://agir.beta.gouv.fr/
+    title: Agir
+    betaId: france.nation.verte.agir
